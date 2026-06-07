@@ -1,0 +1,10 @@
+{
+  "name": "monad-shadow-indexer",
+  "version": "1.0.0",
+  "description": "High-throughput parallelized event log indexer pipeline for Monad EVM",
+  "main": "launchShadowIndexer.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
